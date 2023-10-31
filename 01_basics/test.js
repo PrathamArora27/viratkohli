@@ -1,1 +1,1 @@
-console.log("pratham");
+console.log("kartik java god");
